@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct": 1
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Fe", "Au", "Cu"],
+        "correct": 2
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+        "correct": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Brain", "Liver", "Skin"],
+        "correct": 3
+    },
+    {
+        "question": "Which programming language is known as the 'language of the web'?",
+        "options": ["Python", "Java", "JavaScript", "C++"],
+        "correct": 2
+    }
+]
